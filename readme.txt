@@ -1,0 +1,1 @@
+SnakeClient.jar或(原始程式檔)Main.java執行路徑下需要有apple.png存在，否則或產生意外結果!!
